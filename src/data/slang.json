@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "word": "No cap",
+    "meaning": "Used to emphasize that someone is telling the truth or not lying.",
+    "tone": "Casual / Sincere",
+    "example": "That movie was actually the best I've ever seen, no cap.",
+    "origin": "Atlanta Hip-hop / Twitter",
+    "popularity": "Viral",
+    "related": ["For real", "Deadass", "Facts"]
+  },
+  {
+    "id": "2",
+    "word": "Bet",
+    "meaning": "An expression used to agree with something or confirm a plan.",
+    "tone": "Casual / Affirmative",
+    "example": "A: 'Wanna go to the mall?' B: 'Bet, see you in ten.'",
+    "origin": "Black American Vernacular English (BAVE)",
+    "popularity": "Viral",
+    "related": ["Word", "Alright", "Say less"]
+  },
+  {
+    "id": "3",
+    "word": "Rizz",
+    "meaning": "Short for 'charisma'. Ability to attract a romantic partner.",
+    "tone": "Funny / Flirty",
+    "example": "He's got that unspoken rizz, he didn't even say a word and she was hooked.",
+    "origin": "TikTok / Kai Cenat",
+    "popularity": "Viral",
+    "related": ["Game", "Charm", "W Rizz"]
+  },
+  {
+    "id": "4",
+    "word": "Gyatt",
+    "meaning": "An exclamation used when seeing someone with a large backside, often used humorously.",
+    "tone": "Funny / Exclamatory",
+    "example": "Gyatt! Did you see how big that cake was?",
+    "origin": "Twitch / Kai Cenat",
+    "popularity": "Viral",
+    "related": ["Thick", "Zamn", "Fanum Tax"]
+  },
+  {
+    "id": "5",
+    "word": "Delulu",
+    "meaning": "Short for delusional. Often used when someone has unrealistic expectations, especially in romance.",
+    "tone": "Sarcastic / Funny",
+    "example": "I'm being so delulu thinking he's gonna text me back after 3 years.",
+    "origin": "TikTok / K-pop Fandoms",
+    "popularity": "Viral",
+    "related": ["Manifesting", "Solulu", "Living in a dream"]
+  },
+  {
+    "id": "6",
+    "word": "Slay",
+    "meaning": "To do something exceptionally well or look great.",
+    "tone": "Supportive / Enthusiastic",
+    "example": "Your outfit today? Slay.",
+    "origin": "Ballroom Culture / Queer Culture",
+    "popularity": "Viral",
+    "related": ["Ate", "Served", "Mother"]
+  },
+  {
+    "id": "7",
+    "word": "Bussin",
+    "meaning": "Used to describe food that is extremely delicious.",
+    "tone": "Enthusiastic / Casual",
+    "example": "This burger is straight bussin, no cap.",
+    "origin": "BAVE / TikTok",
+    "popularity": "Viral",
+    "related": ["Fire", "Gas", "Valid"]
+  },
+  {
+    "id": "8",
+    "word": "Mid",
+    "meaning": "Something that is average, mediocre, or not as good as it's hyped to be.",
+    "tone": "Sarcastic / Critical",
+    "example": "That new album was honestly mid.",
+    "origin": "Twitter / TikTok",
+    "popularity": "Viral",
+    "related": ["Basic", "Overrated", "L"]
+  },
+  {
+    "id": "9",
+    "word": "Era",
+    "meaning": "Used to describe a specific phase in someone's life or aesthetic.",
+    "tone": "Casual / Aesthetic",
+    "example": "I'm in my flop era right now, but the comeback will be legendary.",
+    "origin": "TikTok / Taylor Swift",
+    "popularity": "Viral",
+    "related": ["Vibe", "Season", "Phase"]
+  },
+  {
+    "id": "10",
+    "word": "Sus",
+    "meaning": "Short for suspicious or suspect. Giving off a weird or untrustworthy vibe.",
+    "tone": "Funny / Skeptical",
+    "example": "He's acting real sus lately, always hiding his phone.",
+    "origin": "Among Us / BAVE",
+    "popularity": "Viral",
+    "related": ["Shady", "Sketchy", "Ick"]
+  },
+  {
+    "id": "11",
+    "word": "Ate",
+    "meaning": "Used to describe someone who did a great job or looked amazing.",
+    "tone": "Supportive",
+    "example": "She really ate that performance, left no crumbs.",
+    "origin": "Ballroom Culture",
+    "popularity": "Viral",
+    "related": ["Slay", "Served", "No crumbs"]
+  },
+  {
+    "id": "12",
+    "word": "Cap",
+    "meaning": "To lie about something.",
+    "tone": "Skeptical",
+    "example": "Stop capping, I know you didn't actually meet him.",
+    "origin": "Atlanta Hip-hop",
+    "popularity": "Viral",
+    "related": ["No cap", "Lying", "Sus"]
+  },
+  {
+    "id": "13",
+    "word": "Drip",
+    "meaning": "A person's sense of style or a specific outfit that is very cool.",
+    "tone": "Complimentary",
+    "example": "Your drip today is insane, where'd you get that jacket?",
+    "origin": "Atlanta Hip-hop",
+    "popularity": "Viral",
+    "related": ["Fit", "Swag", "Icy"]
+  },
+  {
+    "id": "14",
+    "word": "Ghosted",
+    "meaning": "When someone suddenly stops communicating with another person without explanation.",
+    "tone": "Sad / Annoyed",
+    "example": "We went on three dates and then he just ghosted me.",
+    "origin": "Online Dating",
+    "popularity": "Viral",
+    "related": ["Left on read", "Breadcrumbing"]
+  },
+  {
+    "id": "15",
+    "word": "Main Character Energy",
+    "meaning": "When someone behaves like the protagonist of their own life, often in a confident or stylish way.",
+    "tone": "Positive / Aesthetic",
+    "example": "Walking through the park with headphones on gives such main character energy.",
+    "origin": "TikTok",
+    "popularity": "Viral",
+    "related": ["Era", "Vibe", "Iconic"]
+  },
+  {
+    "id": "16",
+    "word": "Tea",
+    "meaning": "Gossip or juicy information.",
+    "tone": "Curious / Exciting",
+    "example": "What's the tea from the party last night?",
+    "origin": "Drag Culture",
+    "popularity": "Viral",
+    "related": ["Spill", "Chisme", "Drama"]
+  },
+  {
+    "id": "17",
+    "word": "Valid",
+    "meaning": "Something that is acceptable, good, or approved of.",
+    "tone": "Affirmative",
+    "example": "That take is actually valid.",
+    "origin": "TikTok",
+    "popularity": "Viral",
+    "related": ["Facts", "Based", "W"]
+  },
+  {
+    "id": "18",
+    "word": "Based",
+    "meaning": "To be yourself and not care what others think. Often used for controversial but honest opinions.",
+    "tone": "Respectful",
+    "example": "A: 'I think pineapples belong on pizza.' B: 'Based.'",
+    "origin": "Lil B / Internet Culture",
+    "popularity": "Viral",
+    "related": ["Valid", "Real", "W"]
+  },
+  {
+    "id": "19",
+    "word": "Ick",
+    "meaning": "A sudden feeling of disgust or repulsion towards someone you were previously attracted to.",
+    "tone": "Repulsed",
+    "example": "He started clapping when the plane landed and I got the immediate ick.",
+    "origin": "TikTok / Love Island",
+    "popularity": "Viral",
+    "related": ["Sus", "Cringe", "Red flag"]
+  },
+  {
+    "id": "20",
+    "word": "Situationship",
+    "meaning": "A romantic relationship that is more than a friendship but less than a formal committed relationship.",
+    "tone": "Complicated",
+    "example": "We've been in a situationship for six months and I still don't know what we are.",
+    "origin": "Dating Culture",
+    "popularity": "Viral",
+    "related": ["Complicated", "Dating"]
+  }
+]
