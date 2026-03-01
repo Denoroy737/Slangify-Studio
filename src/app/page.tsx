@@ -43,7 +43,7 @@ export default function Home() {
           <a href="https://x.com/denoroy737" className="p-2 text-zinc-400 hover:text-white transition-colors">
             <Twitter className="w-5 h-5" />
           </a>
-          <a href="https://github.com/denoroy737/slangify" className="p-2 text-zinc-400 hover:text-white transition-colors">
+          <a href="https://github.com/Denoroy737/Slangify-Studio" className="p-2 text-zinc-400 hover:text-white transition-colors">
             <Github className="w-5 h-5" />
           </a>
           {/* <button 

@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Slangify-Studio
+
+Slangify‑Studio is an interactive web application built with [Next.js](https://nextjs.org) that allows users to search for, explore, and listen to English slang terms. The UI is powered by Tailwind CSS and a collection of custom UI components, with a focus on accessibility and a playful experience.
+
+## Features
+
+- **Search bar** with live suggestions for slang terms
+- **Trending slangs** carousel on the homepage
+- **Slang cards** showing definitions and example usage
+- **Audio playback** for pronunciation using the Web Audio API
+- **Dark/light themes** respecting user preference
+- **Responsive design** optimized for desktop and mobile
 
 ## Getting Started
 
-First, run the development server:
+Clone the repo and install dependencies:
+
+```bash
+git clone <repo-url> slangify-studio
+cd slangify-studio
+npm install      # or yarn / pnpm / bun
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the app. The page will reload as you make edits, and you can modify files under `src/app` to experiment with the layout.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+src/
+  app/                  # Next.js App Router pages & layouts
+  components/           # Reusable UI components
+  data/slang.json       # Slang dictionary data
+  hooks/                # Custom React hooks
+  lib/                  # Utility functions
+```
 
-## Learn More
+## Scripts
 
-To learn more about Next.js, take a look at the following resources:
+- `npm run dev` – start development server
+- `npm run build` – create production build
+- `npm run start` – serve the production build
+- `npm run lint` – run ESLint
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Contributions are welcome! Feel free to open issues or submit pull requests to add features, improve performance, or fix bugs. Please follow the existing code style and run `npm run lint` before submitting.
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the [MIT License](LICENSE).
