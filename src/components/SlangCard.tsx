@@ -183,7 +183,7 @@ export const SlangCard = ({ slang, onClose, onSelectRelated }: SlangCardProps) =
             {/* Related Slangs Section */}
             <section>
               <h3 className="text-zinc-600 font-bold text-[10px] uppercase tracking-[0.3em] mb-4 flex items-center gap-3">
-                <span className="w-8 h-[1px] bg-emerald-500/40 flex-shrink-0" /> 
+                <span className="w-8 h-px bg-emerald-500/40 flex-shrink-0" /> 
                 <span>Related Slangs</span>
               </h3>
               <div className="flex flex-wrap gap-2.5">
