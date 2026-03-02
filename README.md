@@ -16,7 +16,7 @@ Slangify‑Studio is an interactive web application built with [Next.js](https:/
 Clone the repo and install dependencies:
 
 ```bash
-git clone <repo-url> slangify-studio
+git clone https://github.com/Denoroy737/Slangify-Studio slangify-studio
 cd slangify-studio
 npm install      # or yarn / pnpm / bun
 ```
